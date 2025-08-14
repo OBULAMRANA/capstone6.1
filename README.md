@@ -6,7 +6,9 @@ https://www.kaggle.com/datasets/animeshparikshya/house-sale-data-81-column?selec
 
 This dataset has catagorial and numerical data with more columns. This data is the good input for the models to predict the house prices.
 The dataset contains the related information like area, built year, lot size, number of bed rooms, rest rooms,sale price ...etc
+## Notebook
 
+Capstone_Assignment_16_1.ipynb
 ## 3. The techniques you expect to use in your analysis
 Exploratory Data Analysis (EDA): Data preparation, Cleaning the data,  Understand the data, examine relationships using visualizations such as histograms, scatter plots, and heatmaps.
 Principal Component Analysis (PCA) & : Reduce dimensionality to identify and retain the most significant features contributing to house price.
