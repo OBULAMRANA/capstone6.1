@@ -10,19 +10,11 @@ The dataset contains the related information like area, built year, lot size, nu
 
 Capstone_Assignment_16_1.ipynb
 ## 3. The techniques you expect to use in your analysis
+
 Exploratory Data Analysis (EDA): Data preparation, Cleaning the data,  Understand the data, examine relationships using visualizations such as histograms, scatter plots, and heatmaps.
 Principal Component Analysis (PCA) & : Reduce dimensionality to identify and retain the most significant features contributing to house price.
 Clustering : Apply clustering to uncover groups of houses with similar catagories like built-year, price, area. These clusters can offer insight on sale/price patterns and may be used as additional features in the final predictive model.
 
-Create the below models for comparision and tune it to get the accuracy for the accurecy.
-
-K Nearest Neighbor
-
-Logistic Regression
-
-Decision Tree
-
-Support Vector Machine
  
 ## 4.The expected results
 Finding the better classification algorithms model with accuracy and better performance.
