@@ -28,8 +28,11 @@ Finding the better classification algorithms model with accuracy and better perf
 Housing prices veries on different parameters and conditions. Finding the best suitable model for the prediction of the house price will help.
 
 
-# --------------------------------------------------------------
-Below  inforamtion was submitted as part of the capstone6.1 assignment
+
+#
+#
+
+# Below  inforamtion was submitted as part of the capstone6.1 assignment
 
 # --------------------------------------------------------------
 # capstone6.1
